@@ -11,8 +11,8 @@ function tabelaMulti(n=10) {
         }
     }
 
-   
     console.table(meuArray)
+   return meuArray
 }
 
 
